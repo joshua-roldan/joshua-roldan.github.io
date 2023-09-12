@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Resources"
+title: "Learning Not Resources"
 author: "Paul Le"
 categories: resources
 tags: [documentation,sample]
