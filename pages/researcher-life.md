@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Researcher
+title: researcher
 category: facts
 permalink: /researcher
 ---
