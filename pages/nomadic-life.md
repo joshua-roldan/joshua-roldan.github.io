@@ -1,8 +1,8 @@
 ---
 layout: category
-title: Nomad
+title: nomad
 category: sample
-permalink: /nomadic-life
+permalink: /nomad
 ---
 
 
