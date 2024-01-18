@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Nomadic Life
+title: Nomad
 category: sample
 permalink: /nomadic-life
 ---
