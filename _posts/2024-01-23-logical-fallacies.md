@@ -1,6 +1,6 @@
 ---
 layout: 
-title: "logical fallacies"
+title: "Logical Fallacies"
 author:
 categories:
 tags: []
