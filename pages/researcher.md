@@ -1,6 +1,6 @@
 ---
-layout: category
-title: researcher
+layout: page
+title: research
 category: facts
-permalink: /researcher
+permalink: /research
 ---
