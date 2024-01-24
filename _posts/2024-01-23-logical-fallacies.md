@@ -1,8 +1,8 @@
 ---
-layout: 
+layout: post
 title: "Logical Fallacies"
-author:
-categories:
+author: "J.M.R"
+categories: opinions
 tags: []
 image:
 ---
