@@ -1,7 +1,7 @@
 ---
 layout: category
 title: adventures
-category: sample
+category: adventures
 permalink: /adventures
 ---
 
