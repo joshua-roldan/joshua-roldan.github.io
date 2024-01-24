@@ -1,7 +1,7 @@
 ---
 layout: category
 title: opinions
-category: sample
+category: opinions
 permalink: /opinions
 ---
 
