@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+categories: contact
 permalink: /contact
 ---
 
