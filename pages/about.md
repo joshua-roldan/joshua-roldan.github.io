@@ -3,8 +3,8 @@ layout: post
 title: "About the Author"
 permalink: "/about"
 author: "Joshua M. Roldan"
-categories: facts
-tags: [sample]
+categories: about
+tags: 
 image: cuba-2.jpg
 ---
 
