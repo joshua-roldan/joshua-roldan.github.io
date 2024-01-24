@@ -8,8 +8,7 @@ tags:
 image: cuba-2.jpg
 ---
 
-Hi there! [CV](https://github.com/joshua-roldan/joshua-roldan.github.io/blob/3e1bf02b58a9f61c7b1d61aa42b553b0a672f453/Joshua_Roldan_CV.pdf)
-Hi there.. [CV1](https://joshua-roldan.github.io/Joshua_Roldan_CV.pdf)
+Hi there.. [CV](https://joshua-roldan.github.io/Joshua_CV_01182023.pdf)
 
 Welcome! Please, make yourself comfortable. 
 "Mi (virtual) casa es tu (virtual) casa." 
