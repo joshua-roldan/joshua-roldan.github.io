@@ -9,7 +9,6 @@ google-ID: ''
 menu:
 - {name: 'about',              url: 'about'}
 - {name: 'research',  url: 'research'}
-- {name: 'opinions',       url: 'opinions'}
 - {name: 'adventures', url: 'adventures'}
 - {name: 'contact',            url: 'contact'}
 
