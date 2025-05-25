@@ -1,8 +1,8 @@
 ---
 layout: category
-title: opinions
-category: opinions
-permalink: /opinions
+title: readings
+category: readings
+permalink: /readings
 ---
 
 
